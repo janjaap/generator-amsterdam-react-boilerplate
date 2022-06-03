@@ -51,7 +51,7 @@
     "node-fetch": "^2.3.0",
     "prettier": "^1.16.4",
     "redux-saga": "^1.0.2",
-    "semver-regex": "^2.0.0",
+    "semver-regex": "^3.1.4",
     "yeoman-generator": "^3"
   }
 }
